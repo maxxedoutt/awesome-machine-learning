@@ -6,7 +6,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2-3 years).
+
 
 Further resources-->
 
@@ -1403,3 +1403,4 @@ be
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://github.com/golang/go/wiki/Projects)
+## thank you!
